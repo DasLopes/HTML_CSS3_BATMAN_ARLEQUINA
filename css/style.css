@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.desconto{
+    width: 1024px;
+    height: 38px;
+
+    background-color: #1CD1B0;
+}
+.textoDesconto{
+    width: 124px;
+    height: 18px;
+    color: black;
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: "Roboto";
+}
+
+.tituloPrincipal{
+    position: absolute;
+    width: 1024px;
+    height: 101px;
+    background-color: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000000;
+}
+.textoTituloPrincipal{
+    width: 224px;
+    height: 47px;
+    padding: 28px 0 26px 28px;
+    font-size: 40px;
+    font-family: "Roboto";
+}
+
+.principal{
+    width: 1024px;
+    height: 833px;
+    background-color: #e5e5e5;
+}
+.personagens{
+    position: absolute;
+    width: 834px;
+    height: 597.01px;
+    left: 112px;
+    top: 223.99px;
+}
+.caixaPersonagem1{
+    left: 0px;
+    position: absolute;
+    width: 374px;
+    height: 597px;
+}
+.caixaPersonagem2{
+    position: absolute;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-left: 460px;
+    width: 374px;
+    height: 597px;
+}
+.fundoBatman{
+    position: absolute;
+    width: 374px;
+    height: 217.81px;
+    left: 0px;
+    top: 0px;
+    background-image: url(../img/fundobatman.png);
+}
+.fundoArlequina{
+    position: absolute;
+    width: 374px;
+    height: 217.81px;
+    left: 0px;
+    top: 0px;
+    background-image: url(../img/fundoarlequina.png);
+}
+.coracao{
+    position: absolute;
+    left: 23.7px;
+    right: 316.44px;
+    top: 17.92px;
+    bottom: 170px;
+    width: 20px;
+    height: 20px;
+    background-color: #ffffff00;
+    
+}
+.logoBatman{
+    position: absolute;
+    width: 135.43px;
+    height: 133.17px;
+    left: 120px;
+    top: 150px;
+    border-radius: 50%;
+    background: url(../img/batman.png);
+}
+.logoArlequina{
+    position: absolute;
+    width: 135.43px;
+    height: 133.17px;
+    left: 120px;
+    top: 150px;
+    border-radius: 50%;
+    background: url(../img/arlequina.png);
+}
+.verMais{
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    left: 120px;
+    top: 510px;
+    background: #00669F;
+    
+}
+.verMais2{
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    left: 120px;
+    top: 510px;
+    background: #00669F;
+    
+}
+.textoVerMais{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+padding-left: 35px;
+padding-top: 15px;
+color: #F3F3F3;
+}
+.textoVerMais2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    padding-left: 35px;
+    padding-top: 15px;
+    color: #F3F3F3;
+    }
+.fundoTexto1{
+    position: absolute;
+    width: 374px;
+    height: 379.2px;
+    left: 0px;
+    top: 215px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgb(0, 0, 0);
+}
+.fundoTexto2{
+    position: absolute;
+    width: 374px;
+    height: 379.2px;
+    left: 0px;
+    top: 215px;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgb(0, 0, 0);
+}
+.nomePersonagem{
+    position: absolute;
+    width: 137.69px;
+    height: 39.5px;
+    left: 120px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;  
+    color: #000000;
+}
+.nomePersonagem2{
+    position: absolute;
+    width: 137.69px;
+    height: 39.5px;
+    left: 120px;
+    top: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;  
+    color: #000000;
+}
+.paragrafo{
+    position: absolute;
+    width: 301.33px;
+    height: 127.53px;
+    left: 40px;
+    top: 160px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #333333;
+}
+.paragrafo2{
+    position: absolute;
+    width: 301.33px;
+    height: 127.53px;
+    left: 40px;
+    top: 160px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #333333;
+}
+.caixaPersonagem2{
+    left: 0px;
+    position: absolute;
+    width: 374px;
+    height: 597px;
+}
+
+.rodape{
+    width: 1024px;
+    height: 51px;
+    background-color: #00669F;
+}
+.textoRodape{
+    font-family: "Roboto";
+    color: #FFF9F9;
+    padding-top: 15px;
+    padding-left: 10px;
+}
